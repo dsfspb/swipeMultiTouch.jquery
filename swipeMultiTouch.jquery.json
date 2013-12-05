@@ -1,0 +1,36 @@
+{
+  "name": "swipeMultiTouch",
+  "title": "swipeMultiTouch",
+  "description": "Plugin of jQuery, it can call a callback when a swipe multi touch event done",
+  "keywords": [
+    "swipe",
+    "touch",
+    "multitouch",
+    "fingers"
+  ],
+  "version": "1.0.0",
+  "author": {
+    "name": "Lucich Kevin",
+    "url": "http://www.lucichkevin.it"
+  },
+"maintainers": [
+  {
+    "name": "Kevin Lucich",
+    "email": "lucichkevin@libero.it",
+    "url": "http://www.lucichkevin.it"
+  }
+],
+"licenses": [
+  {
+    "type": "MIT",
+    "url": "https://github.com/kevinoo/swipeMultiTouch.jquery/blob/master/MIT-LICENSE.txt"
+  }
+],
+"bugs": "https://github.com/kevinoo/swipeMultiTouch.jquery/issues",
+"homepage": "www.lucichkevin.it/docs/?plugin_name=swipeMultiTouch.jquery",
+"docs": "www.lucichkevin.it/docs/?plugin_name=swipeMultiTouch.jquery",
+"download": "http://www.lucichkevin.it/docs/?plugin_name=swipeMultiTouch.jquery",
+"dependencies": {
+"jquery": ">=1.6"
+}
+}
